@@ -1,0 +1,1241 @@
+[
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=9233",
+      "signal_source_unique_id": "FY 2025-11"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=9206",
+      "signal_source_unique_id": "FY 2025-09"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=9204",
+      "signal_source_unique_id": "FY 2025-08"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=9202",
+      "signal_source_unique_id": "FY 2025-07"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=9165",
+      "signal_source_unique_id": "FY 2025-06"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=9163",
+      "signal_source_unique_id": "FY 2025-05"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=9161",
+      "signal_source_unique_id": "FY 2025-04"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8996",
+      "signal_source_unique_id": "FY 2024-16"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8961",
+      "signal_source_unique_id": "FY 2024-09"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8908",
+      "signal_source_unique_id": "FY 2024-15"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8897",
+      "signal_source_unique_id": "FY 2024-14"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8876",
+      "signal_source_unique_id": "FY 2013-13"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8872",
+      "signal_source_unique_id": "FY 2024-12"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8850",
+      "signal_source_unique_id": "FY 2024-11"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8849",
+      "signal_source_unique_id": "FY 2024-10"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8809",
+      "signal_source_unique_id": "FY 2024-07"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8808",
+      "signal_source_unique_id": "FY 2024-06"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8806",
+      "signal_source_unique_id": "FY 2024-05"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8804",
+      "signal_source_unique_id": "FY 2024-04"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8801",
+      "signal_source_unique_id": "FY 2024-03"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8753",
+      "signal_source_unique_id": "FY 2024-02"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8708",
+      "signal_source_unique_id": "FY 2024-01"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8649",
+      "signal_source_unique_id": "FY 2023-19"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8645",
+      "signal_source_unique_id": "FY 2023-18"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8643",
+      "signal_source_unique_id": "FY 2023-17"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8638",
+      "signal_source_unique_id": "FY 2023-16"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8613",
+      "signal_source_unique_id": "FY 2023-15"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8611",
+      "signal_source_unique_id": "FY 2023-14"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8609",
+      "signal_source_unique_id": "FY 2023-13"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8607",
+      "signal_source_unique_id": "FY 2023-12"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8605",
+      "signal_source_unique_id": "FY 2023-11"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8603",
+      "signal_source_unique_id": "FY 2023-10"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8541",
+      "signal_source_unique_id": "FY 2023-08"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8538",
+      "signal_source_unique_id": "FY 2023-07"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8531",
+      "signal_source_unique_id": "FY 2023-06"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8529",
+      "signal_source_unique_id": "FY 2023-05"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8528",
+      "signal_source_unique_id": "FY 2023-04"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8517",
+      "signal_source_unique_id": "FY 2023-03"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8514",
+      "signal_source_unique_id": "FY 2023-02"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8510",
+      "signal_source_unique_id": "FY 2023-01"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8501",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8500",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8498",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8496",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8493",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8491",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8484",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8453",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8445",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8444",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8422",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8411",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8409",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8393",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8392",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8391",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8390",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8388",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8368",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8366",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8349",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8328",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8326",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8303",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8289",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8287",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8285",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8283",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8281",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8275",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8272",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8241",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8239",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8214",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8178",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8176",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8174",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8172",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8166",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8165",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8164",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8163",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8161",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8156",
+      "signal_source_unique_id": "FY 2020-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8107",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8103",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8088",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8084",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8060",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8059",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8013",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8009",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8007",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8002",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7962",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7961",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7960",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7959",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7952",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7947",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7943",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7941",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7937",
+      "signal_source_unique_id": "FY 2019-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7911",
+      "signal_source_unique_id": "FY 2018-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7888",
+      "signal_source_unique_id": "FY 2018-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7869",
+      "signal_source_unique_id": "FY 2018-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7816",
+      "signal_source_unique_id": "FY 2018-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7781",
+      "signal_source_unique_id": "FY 2018-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7764",
+      "signal_source_unique_id": "FY 2018-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7681",
+      "signal_source_unique_id": "FY 2018-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7678",
+      "signal_source_unique_id": "FY 2018-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7672",
+      "signal_source_unique_id": "FY 2018-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7617",
+      "signal_source_unique_id": "FY 2018-03"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7614",
+      "signal_source_unique_id": "FY 2018-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7560",
+      "signal_source_unique_id": "FY 2018-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7556",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7552",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7548",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7520",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7512",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7492",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7486",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7408",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7397",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7394",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7381",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7365",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7362",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7344",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7337",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7287",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7284",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7279",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7272",
+      "signal_source_unique_id": "FY 2017-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7245",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7218",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7215",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7190",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7187",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7143",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7099",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=7032",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6977",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6964",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6935",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6932",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6929",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6907",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6899",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6895",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6891",
+      "signal_source_unique_id": "FY 2016-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6862",
+      "signal_source_unique_id": "FY 2015-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6839",
+      "signal_source_unique_id": "FY 2015-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6820",
+      "signal_source_unique_id": "FY 2015-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6768",
+      "signal_source_unique_id": "FY 2015-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6753",
+      "signal_source_unique_id": "FY 2015-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6658",
+      "signal_source_unique_id": "FY 2015-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6655",
+      "signal_source_unique_id": "FY 2015-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=6605",
+      "signal_source_unique_id": "FY 2015-04"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=5779",
+      "signal_source_unique_id": "FY 2015-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=5677",
+      "signal_source_unique_id": "FY 2015-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=5645",
+      "signal_source_unique_id": "FY 2015-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=3485",
+      "signal_source_unique_id": "FY 2014-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=3482",
+      "signal_source_unique_id": "FY 2014-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=3479",
+      "signal_source_unique_id": "FY 2014-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=3466",
+      "signal_source_unique_id": "FY 2014-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=3455",
+      "signal_source_unique_id": "FY 2014-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=3407",
+      "signal_source_unique_id": "FY 2014-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=3378",
+      "signal_source_unique_id": "FY 2014-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=9208",
+      "signal_source_unique_id": "FY 2025-10"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=9160",
+      "signal_source_unique_id": "FY 2025-03"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=9157",
+      "signal_source_unique_id": "FY 2025-02"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=9155",
+      "signal_source_unique_id": "FY 2025-01"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8846",
+      "signal_source_unique_id": "FY 2024-08"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8602",
+      "signal_source_unique_id": "FY 2023-09"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8387",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  },
+  {
+    "api": "bid-details",
+    "parameters": {
+      "bidFullUrl": "https://etowahcounty.org/department/purchasing/?post_id=8370",
+      "signal_source_unique_id": "FY 2021-20"
+    }
+  }
+]

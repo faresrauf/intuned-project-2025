@@ -1,0 +1,18 @@
+{
+    "apiAccess": {
+      "enabled": true
+    },
+    "authSessions": {
+      "enabled": false
+    },
+    "projectName": "rauf-project-cli-5-5",
+    "workspaceId": "f96261e8-b0e1-4e26-9419-4a5b017852a8",
+    "scale": {
+      "machineCount": 1,
+      "softLimit": 8,
+      "hardLimit": 10,
+      "memory": 2048,
+      "cpus": 6
+    }
+  }
+  

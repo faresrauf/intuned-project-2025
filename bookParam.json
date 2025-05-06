@@ -1,0 +1,6 @@
+{
+    "api": "book-details",
+    "parameters": {
+      "bookFullUrl": "https://books.toscrape.com/catalogue/soumission_998/index.html"
+    }
+}

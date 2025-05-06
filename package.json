@@ -1,0 +1,33 @@
+{
+  "name": "Nested-Scheduling",
+  "version": "1.0.0",
+  "description": "project uses nested scheduling feature",
+  "tags": [
+    "Scrapper"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "dev:local": "intuned-api-run sample playwright -j '{}'",
+    "dev": "intuned-api-run",
+    "debug": "node --inspect-brk ./node_modules/.bin/intuned-api-run",
+    "build": "intuned-build",
+    "types-check": "intuned-ts-check",
+    "pre-publish": "intuned-ts-check && intuned-build",
+    "start": "node ./output/bundle_v2.js",
+    "browser-save-state": "intuned-browser-save-state",
+    "auth-session-check": "intuned-auth-session-check",
+    "auth-session-create": "intuned-auth-session-create",
+    "auth-session-refresh": "intuned-auth-session-refresh",
+    "auth-session-load": "intuned-auth-session-load"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@intuned/runtime": "npm:@intuned/runtime-dev@1.0.6-cli.8.1.6",
+    "@intuned/sdk": "2.0.2",
+    "@types/intuned__sdk": "npm:@intuned/sdk-types@2.0.2",
+    "@types/node": "^20.10.3",
+    "playwright": "1.44.1",
+    "playwright-core": "1.44.1"
+  }
+}
