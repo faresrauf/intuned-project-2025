@@ -101,7 +101,6 @@ async function extractBids(page: Page): Promise<BidItem[]> {
           });
           
         } catch (e) {
-          console.error(`Error processing attachment: ${e}`);
           continue;
         }
       }
